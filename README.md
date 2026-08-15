@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# Sales and Revenue Analysis - Customer Shopping Behaviour
 
 ## Overview
 
